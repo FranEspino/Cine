@@ -15,7 +15,23 @@
 .boton_saludo:hover {
     -fx-background-color:#8e0000 ;
 }
+.table-view{
+   -fx-background-color: transparent;
 
+   -fx-padding: 0.5em 0.5em 0.1em 0.3em;
+    -fx-border-color: white;
+    -fx-font: 13px "Segoe UI";
+     -fx-border-insets: 0;
+}
+
+
+.colum-view{
+   -fx-background-color: #c62828;
+
+}
+.colum-view:hover{
+  -fx-background-color: #8e0000 ;
+}
 
 .boton_navigation {
 -fx-cursor: hand;
